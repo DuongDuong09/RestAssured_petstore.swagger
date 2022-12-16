@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "username": "example",
+    "firstName": "december",
+    "lastName": "monday",
+    "email": "exe@gmail.com",
+    "password": "december",
+    "phone": "093222442",
+    "userStatus": 0
+  },
+  {
+    "id": 1,
+    "username": "duongnguye",
+    "firstName": "duong",
+    "lastName": "nguyen",
+    "email": "duonguyen@gmail.com",
+    "password": "duong",
+    "phone": "09898988",
+    "userStatus": 0
+  },
+  {
+    "id": 2,
+    "username": "sunny",
+    "firstName": "sunny",
+    "lastName": "string",
+    "email": "sunday@gmail.com",
+    "password": "sunny",
+    "phone": "09898654",
+    "userStatus": 0
+  }
+]
